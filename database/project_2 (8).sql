@@ -26,6 +26,8 @@ SET time_zone = "+00:00";
 --
 -- Cấu trúc bảng cho bảng `admin`
 --
+CREATE DATABASE project_2;
+USE project_2;
 
 CREATE TABLE `admin` (
   `admin_id` int(11) NOT NULL,
